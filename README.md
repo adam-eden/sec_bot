@@ -23,14 +23,14 @@ Useful for trading with Russian brokers.
 ```bash
 pip install -r requirements.txt
 ```
-5. Fill .env-example with your data and rename it to .env
+6. Fill .env-example with your data and rename it to .env
 ```bash
 # Bot token
 token_api = "***"
 # Channel number -1001999999999 format
 channel_id_api = "1001*********"
 ```
-6. Run sec_bot.py
+7. Run sec_bot.py
 
 ### Use crontab for Linux
 ```bash
